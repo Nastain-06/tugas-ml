@@ -181,7 +181,6 @@ matplotlib==3.9.2
 matplotlib-inline==0.1.7
 mccabe @ file:///opt/conda/conda-bld/mccabe_1644221741721/work
 mdit-py-plugins @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mdit-py-plugins_1699559788389/work
-mdurl @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mdurl_1699473506455/work
 menuinst @ file:///C:/b/abs_76jwd47ck1/croot/menuinst_1723567618942/work
 mistune @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mistune_1699559923704/work
 mkl-service==2.4.0
@@ -253,7 +252,6 @@ pydocstyle @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pydoc
 pyerfa @ file:///C:/b/abs_477fivsfe8/croot/pyerfa_1717700768172/work
 pyflakes @ file:///C:/b/abs_b6t1aazq2e/croot/pyflakes_1708963020907/work
 pygame==2.6.1
-Pygments==2.18.0
 PyJWT @ file:///C:/b/abs_04qhgo75wz/croot/pyjwt_1715095119685/work
 pylint @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/pylint_1699495689806/work
 pylint-venv @ file:///C:/b/abs_3f6p_17zia/croot/pylint-venv_1709837680309/work
@@ -296,7 +294,6 @@ requests-file @ file:///Users/ktietz/demo/mc3/conda-bld/requests-file_1629455781
 requests-toolbelt @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/requests-toolbelt_1699475466775/work
 rfc3339-validator @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/rfc3339-validator_1699543924991/work
 rfc3986-validator @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/rfc3986-validator_1699543955651/work
-rich @ file:///C:/b/abs_21nw9z7xby/croot/rich_1720637504376/work
 rope @ file:///C:/b/abs_a4uy0nuc8z/croot/rope_1708963217026/work
 rpds-py @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/rpds-py_1699565648947/work
 Rtree @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/rtree_1699565751755/work
